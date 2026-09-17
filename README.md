@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gags
+# VeraDemo - Blab-a-Gagss
 
 ### :information_source: Notice
 
