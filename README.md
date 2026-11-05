@@ -1,5 +1,5 @@
-# VeraDemo - Blab-a-Gagsssss
-
+# VeraDemo - Blab-a-Gagsss
+ss
 ### :information_source: Notice
 
 This project is intentionally vulnerable! It contains known vulnerabilities and security errors in its code and is meant as an example project for software security scanning tools such as Veracode. Please do not report vulnerabilities in this project; the odds are they’re there on purpose :) .
@@ -21,12 +21,12 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 * `/tools` shows a tools page that shows a fortune or lets you ping a host.
 
 
-## Run
+## Run 
 
 If you don't already have Docker this is a prerequisite.
 
 ```
-docker run --rm -it -p 127.0.0.1:8080:8080 antfie/verademo
+docker run --rm -it -p 127.0.0.1:8080:8080 veracode/vulnerable-verademo-java
 ```
 
 Navigate to: http://127.0.0.1:8080.
